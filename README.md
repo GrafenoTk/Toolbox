@@ -1,3 +1,3 @@
 ### Toolbox
-Copyright © Grafeno Tweaking+ . all rights reserved
-# Created by iNINJAFPS OFICIAL
+Created by iNINJAFPS OFICIAL
+#  Copyright © Grafeno Tweaking+ . all rights reserved
